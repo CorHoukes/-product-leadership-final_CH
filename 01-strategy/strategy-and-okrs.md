@@ -12,7 +12,7 @@ _One line on why you picked it._
 
 | Question | Your choice |
 |---|---|
-| **Winning aspiration** | centralized project information, communication and governance platform for construction projects. |
+| **Winning aspiration** | Meridian is the fastest way for field teams to document work, communicate issues, and prove progress using the tools they already use today (photos, voice, and text), while automatically eliminating duplicate reporting and administrative work. |
 | **Where to play** | For Superintendents, foremen and site managers in large enterprise construction companies and/or project portfolios >75M in USA |
 | **How to win** | 10 years project controls solution and documentation management with structured data storage + auto feed dashboarding capabilities |
 | **Capabilities required** | intuitive and interaction (phone, photo, text) construction project management platform. From floor actions to platform insights. |
@@ -20,7 +20,7 @@ _One line on why you picked it._
 
 ## 2. Your one hard no
 
-> **Hard no:** Will not extend to the regular in company project management solutions like Jira or Microsoft Project
+> **Hard no:** Meridian will not replace enterprise project management tools, but will integrate with them
 
 ## 3. OKR cascade
 
