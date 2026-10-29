@@ -6,9 +6,9 @@
 
 | Horizon | Outcome / bet | Owning team(s) | Success signal |
 |---|---|---|---|
-| Now (0 to 3 mo) | _____ | _____ | _____ |
-| Next (3 to 6 mo) | _____ | _____ | _____ |
-| Later (6 to 12 mo) | _____ | _____ | _____ |
+| Now (0 to 3 mo) | We bet reducing documentation effort will increase field adoption and reporting consistency. We bet proactive updates will improve coordination and reduce communication gaps. We bet capturing labor activity in existing workflows will create reliable project visibility without admin burden. Establish adoption and value baselines | _____ | _____ |
+| Next (3 to 6 mo) | Enable documentation through photos, voice & text. Capture issues and progress where work happens. Transform field activity into structured updates automatically. Surface project health automatically. Demonstrate adoption drives business outcomes and renewals. | _____ | _____ |
+| Later (6 to 12 mo) | AI-generated project documentation. Primary communication layer for project stakeholders. Portfolio source of truth. Predict project risks and recommend actions. Identify adoption risks proactively and strengthen value realization | _____ | _____ |
 
 Roadmap visual: https://github.com/CorHoukes/-product-leadership-final_CH/blob/main/02-roadmap/Meridian_OKR_Roadmap_One_Slide.pptx
 
