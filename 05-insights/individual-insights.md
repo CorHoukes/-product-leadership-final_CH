@@ -1,23 +1,16 @@
 # Individual Insights: Strategy Development Process
 
-> Module 6 · Leverage AI Tools for Leadership Execution
->
-> Your personal reflection on building the strategy end to end.
+> Module 6 · Lead the Team That Builds with AI
 
 ## Friction points
 
-_What was the hardest part of building this strategy, and how did you work through it?_
-
-> _____
+> The hardest was to be concise and specific, the LLM prompts were very helpful and challenged and partnered in the different aspects of the course e.g. OKRs and KRs, as well as the business case, including expected return assumptions and the kill criterion
 
 ## Key learnings
 
-_A few surprising discoveries or insights you gained from the course overall._
-
-> _____
+> Using the prompt and the LLM skill to refine and ensure the work done (enhancement, new features and new functionality design and deployment) is inline with strategy and OKR and have validated value case.
 
 ## "Aha!" moment
 
-_Your main "aha" moment during the project process._
-
-> _____
+> The initial reason for the chosen transformations to succeed or fail was not based on the right determinant,
+> The real determinant is whether CargillNow becomes the easiest channel, not the required channel.
